@@ -4,7 +4,7 @@ from distutils.core import setup
 
 setup(name='automation_tools',
       version='1.0',
-      description='Python Distribution Utilities',
+      description='Misc tools for 3dprinter automation',
       author='Amund Grorud',
       author_email='amund@grorud.net',
       packages=["automation_tools"],
